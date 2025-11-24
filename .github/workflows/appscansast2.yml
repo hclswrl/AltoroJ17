@@ -1,4 +1,4 @@
-name: "HCLWS AppScan SAST"
+name: "HCLWS AppScan SAST RapidFix Demo"
 on:
   workflow_dispatch
 jobs:
